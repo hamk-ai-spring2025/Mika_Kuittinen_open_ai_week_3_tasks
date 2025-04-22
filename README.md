@@ -1,0 +1,1 @@
+# Mika_Kuittinen_open_ai_week_3_tasks
