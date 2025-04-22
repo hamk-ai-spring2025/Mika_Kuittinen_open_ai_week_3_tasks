@@ -1,0 +1,7 @@
+C:\HAMK Univercity\AI APIs and Standalone AI Applications\Assignments\Week_3\assignment_6>
+C:\HAMK Univercity\AI APIs and Standalone AI Applications\Assignments\Week_3\assignment_6>python image_generator_cli_2.py --engine dalle --prompt "space jellyfish" --n 2 --aspect 16:9
+[DALL·E 3] Luo 2 kuvaa: 'space jellyfish', koko: 1792x1024
+C:/pics/image_1745327090_1.png: https://oaidalleapiprodscus.blob.core.windows.net/private/org-eeSwbeuqvROIYbMq6rRSUtVR/user-N5S0eyCpsR1pQ2WPCN6Z5gsg/img-HW0BKyOXKhVuzSNpAf6fe5Wq.png?st=2025-04-22T12%3A04%3A50Z&se=2025-04-22T14%3A04%3A50Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-22T09%3A18%3A48Z&ske=2025-04-23T09%3A18%3A48Z&sks=b&skv=2024-08-04&sig=GxM0FxnqZ%2Bb1099hqITyT4tkLwALbxokTAmaTEuKpi4%3D
+C:/pics/image_1745327112_2.png: https://oaidalleapiprodscus.blob.core.windows.net/private/org-eeSwbeuqvROIYbMq6rRSUtVR/user-N5S0eyCpsR1pQ2WPCN6Z5gsg/img-XmlKc8p0wvpZUIoZ7UPAfa71.png?st=2025-04-22T12%3A05%3A12Z&se=2025-04-22T14%3A05%3A12Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-22T08%3A23%3A23Z&ske=2025-04-23T08%3A23%3A23Z&sks=b&skv=2024-08-04&sig=rLkg1JdgVW6Ndv4I/FZWzzwZiSdB7fNEhvQjkYp33BI%3D
+
+C:\HAMK Univercity\AI APIs and Standalone AI Applications\Assignments\Week_3\assignment_6>
